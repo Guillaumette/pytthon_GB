@@ -1,0 +1,132 @@
+[
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\result.json",
+        "Type": "File",
+        "Size": 213
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\result.PICKLE",
+        "Type": "File",
+        "Size": 132
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\result.txt",
+        "Type": "File",
+        "Size": 162
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sample.csv",
+        "Type": "File",
+        "Size": 74
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sample.pickle",
+        "Type": "File",
+        "Size": 125
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_1.py",
+        "Type": "File",
+        "Size": 1427
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_2_teacher.py",
+        "Type": "File",
+        "Size": 2819
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_3.py",
+        "Type": "File",
+        "Size": 1033
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_4.py",
+        "Type": "File",
+        "Size": 1481
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_5.py",
+        "Type": "File",
+        "Size": 735
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_6.py",
+        "Type": "File",
+        "Size": 1442
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\sem_08_7.py",
+        "Type": "File",
+        "Size": 374
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\workers.csv",
+        "Type": "File",
+        "Size": 123
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\workers.json",
+        "Type": "File",
+        "Size": 229
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\workers.PICKLE",
+        "Type": "File",
+        "Size": 140
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\workers_new.json",
+        "Type": "File",
+        "Size": 504
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\workers_new.PICKLE",
+        "Type": "File",
+        "Size": 5
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\hw_8",
+        "Type": "Directory",
+        "Size": 5944
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\test",
+        "Type": "Directory",
+        "Size": 733
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\__pycache__",
+        "Type": "Directory",
+        "Size": 3657
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\hw_8\\hw_08_1.py",
+        "Type": "File",
+        "Size": 5942
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\hw_8\\output.csv",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\hw_8\\output.json",
+        "Type": "File",
+        "Size": 2
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\test\\workers.json",
+        "Type": "File",
+        "Size": 229
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\test\\workers_new.json",
+        "Type": "File",
+        "Size": 504
+    },
+    {
+        "Path": "C:\\Users\\User\\PycharmProjects\\pythonProject\\seminar_08_serialization\\__pycache__\\sem_08_2_teacher.cpython-312.pyc",
+        "Type": "File",
+        "Size": 3657
+    }
+]
